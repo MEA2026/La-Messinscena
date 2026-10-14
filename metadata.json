@@ -1,0 +1,6 @@
+{
+  "name": "La Messinscena nel tempo",
+  "description": "Atlante visivo e rete interattiva sull'evoluzione del concetto e delle pratiche di messinscena dal teatro classico e moderno al cinema.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
